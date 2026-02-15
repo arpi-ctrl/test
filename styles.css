@@ -17,4 +17,4 @@ footer{background:#17181d;color:#fff}.cta-footer{text-align:center;padding:88px 
 @media (max-width:900px){h1,h2,.logos p,.split h2,.cta-footer h2{font-size:38px}.hero,.split,.grid2,.grid3,.price-grid{grid-template-columns:1fr;display:grid}.price-card{width:100%}.topbar nav{display:none}}
 
 .step2-image-wrap{position:relative}
-.step2-image-wrap::after{content:"S";position:absolute;left:19.5%;top:50%;transform:translate(-50%,-50%);width:16%;aspect-ratio:1/1;border-radius:999px;background:#f9f9fb;color:#111;display:flex;align-items:center;justify-content:center;font:700 clamp(17px,2vw,28px)/1 Arial,Helvetica,sans-serif;z-index:3;box-shadow:0 0 0 1px #f0f0f2;}
+.step2-image-wrap::after{content:"S";position:absolute;left:18.8%;top:50%;transform:translate(-50%,-50%);width:16%;aspect-ratio:1/1;border-radius:999px;background:#f9f9fb;color:#111;display:flex;align-items:center;justify-content:center;font:700 clamp(17px,2vw,28px)/1 Arial,Helvetica,sans-serif;z-index:3;box-shadow:0 0 0 1px #f0f0f2;}
