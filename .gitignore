@@ -1,0 +1,10 @@
+# Prevent local binary assets from being committed (PR tooling rejects binaries)
+assets/
+*.png
+*.webp
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.ico
+*.svg
