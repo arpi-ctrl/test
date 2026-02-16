@@ -5,7 +5,7 @@
 .brand-logo{display:inline-flex;align-items:baseline;height:auto;font-weight:700;font-size:20px;line-height:1;color:currentColor;letter-spacing:-.01em}
 .brand-logo::after{content:"";width:6px;height:6px;margin-left:4px;margin-bottom:0;border-radius:50%;background:#d43086;display:inline-block;align-self:baseline}
 .topbar{height:82px;display:flex;align-items:center;justify-content:space-between;font-size:13px}nav{display:flex;gap:24px}a{text-decoration:none;color:#222}
-.cta{border:0;border-radius:999px;padding:10px 18px;font-weight:600}.dark{background:#0f1115;color:#fff}.light{background:#fff;color:#111}
+.cta{border:0;border-radius:999px;padding:10px 18px;font-weight:600;display:inline-block;text-decoration:none}.dark{background:#0f1115;color:#fff}.light{background:#fff;color:#111}
 .hero{display:grid;grid-template-columns:1.05fr 1fr;gap:28px;padding-top:38px}h1,h2,h3{font-family:"Mucho Sans",Apercu,"Apercu Pro",Inter,"Neue Haas Grotesk Text",Arial,sans-serif;font-weight:585}
 h1{font-size:56px;line-height:1;margin:14px 0;max-width:560px}.hero-checklist{list-style:none;padding:0;margin:0 0 6px;color:#5a5f71}.hero-checklist li{position:relative;padding-left:26px;line-height:1.8}.hero-checklist li::before{content:"✓";position:absolute;left:0;top:0.03em;color:#5f7ff7;font-weight:700;font-size:14px}.pink{color:#d43086;font-weight:500}
 .hero-image-wrap img{width:100%;display:block}
